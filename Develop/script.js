@@ -140,4 +140,25 @@ function timeColors () {
 
 timeColors();
 
-// 
+// function that allows text to be entered and saved to local storage 
+
+//Define variables for each hour  
+ 
+var nineEvent = document.querySelector('#nineEvent');
+var nineButton = document.querySelector('#nineButton');
+
+renderSavedEvents (); 
+
+function renderSavedEvents () {
+    var nineStorage = localStorage.getItem("nineKey");
+    if (nineStorage == null) {return} else {nineEvent.textContent=nineStorage};
+};
+
+
+nineButton.addEventListener("click", function(event){
+    event.preventDefault();
+    var nineStorage = document.getElementById("nineText").value;
+    nineEvent.textContent = nineStorage;
+    localStorage.setItem("nineKey", nineStorage);
+    renderSavedEvents();
+});
