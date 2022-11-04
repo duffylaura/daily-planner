@@ -24,15 +24,15 @@
 
   As the user is planning their schedule for the day, they can write the activities that are occuring each hour from 9 to five in the daily planner app. Select the input box by the hour, enter the activities for that hour, hit the "save" button to the right. As the day goes on, the planner will be color coded. For example, at 9am a schedule for a stylist would look like this: 
 
-    [![Schedule at 9am](./Develop/images/one.png)]
+    ![Schedule at 9am](./Develop/images/one.png)
 
   At 1pm, their schedule would look like this: 
 
-    [![Schedule at 1pm](./Develop/images/two.png)]
+    ![Schedule at 1pm](./Develop/images/two.png)
 
   At the end of the day, their schedule would like this: 
 
-    [![Schedule at end of day](./Develop/images/three.png)]
+    ![Schedule at end of day](./Develop/images/three.png)
     
   ## License
 
