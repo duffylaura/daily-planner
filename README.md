@@ -5,8 +5,8 @@
       
   ## Description 
 
-    * This web application was designed for people with busy schedules! It allows the user to add events to a daily planner so that they can manage their schedule for the day effectively.
-    * While working on this project, the coder developed skills in using the Moment.js library to work with date and time, Bootstrap, and local storage. 
+* This web application was designed for people with busy schedules! It allows the user to add events to a daily planner so that they can manage their schedule for the day effectively.
+* While working on this project, the coder developed skills in using the Moment.js library to work with date and time, Bootstrap, and local storage. 
     
   ## Table of Contents
   - [Installation](#installation)
