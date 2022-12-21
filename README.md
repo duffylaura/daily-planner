@@ -2,7 +2,11 @@
   # Daily Planner 
 
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-      
+  
+  ## Deployed Link
+  
+  [Click here!](https://duffylaura.github.io/daily-planner/)
+  
   ## Description 
 
 * This web application was designed for people with busy schedules! It allows the user to add events to a daily planner so that they can manage their schedule for the day effectively.
